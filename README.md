@@ -24,7 +24,7 @@ cd frases-rb
 ```bash
 ruby frases.rb
 ```
-## Dockerization 💻
+## Dockerization 🐋
 <ol>
   Step 1: Build the Docker Image
 
